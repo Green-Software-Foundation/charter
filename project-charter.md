@@ -1,7 +1,3 @@
----
-version: 5.0.2
----
-
 # Joint Development Foundation Projects, LLC 
 
 ## Project Charter 
