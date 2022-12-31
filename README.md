@@ -1,0 +1,1 @@
+# Green Software Foundation Charter
