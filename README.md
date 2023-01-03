@@ -9,11 +9,11 @@ The Charter establishes the Green Software Foundation and includes the governanc
 
 The Working Group Charters establishes the governance, scope and intellectual property terms for each Working Group under the Green Software Foundation.
 
-- [Green Software Foundation Charter](./project-charter.md)
-- [Standards Working Group Charter](./standards-working-group-charter.md)
-- [Open Source Working Group Charter](./open-source-working-group-charter.md)
-- [Community Working Group Charter](./community-working-group-charter.md)
-- [Policy Working Group Charter](./policy-working-group-charter.md)
-- [Appendix A](./appendix-a.md)
-- [Appendix B](./appendix-b.md)
-- [Appendix C](./appendix-c.md)
+- [Green Software Foundation Charter](./charter.md#project-charter)
+- [Standards Working Group Charter](./charter.md#standards-working-group-charter)
+- [Open Source Working Group Charter](./charter.md#open-source-working-group-charter)
+- [Community Working Group Charter](./charter.md#community-working-group-charter)
+- [Policy Working Group Charter](./charter.md#policy-working-group-charter)
+- [Appendix A](./charter.md#appendix-a)
+- [Appendix B](./charter.md#appendix-b)
+- [Appendix C](./charter.md#appendix-c)
