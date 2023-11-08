@@ -369,27 +369,27 @@ This working group will:
 
 4. Patent Licensing. Each Working Group must specify the patent mode under which it will operate prior to initiating any work on any Draft Deliverable or Approved Deliverable other than source code or datasets. The patent mode for this Working Group is: [Check one box] 
 
-    - [ ] RAND Royalty-Free Mode, as set forth in Appendix B, Patent Policy Option 1. 
-    - [ ] International Mode, as set forth in Appendix B, Patent Policy Option 2.  
-    - [ ] Open Web Foundation Agreement 1.0 Mode, as set forth in Appendix B, Patent Policy Option 3. 
-    - [ ] W3C Mode, as set forth in Appendix B, Patent Policy Option 4. 
-    - [x] No Patent License.  No patent licenses are granted for the Draft Deliverables or Approved Deliverables developed by this Working Group.
+ - [ ] RAND Royalty-Free Mode, as set forth in Appendix B, Patent Policy Option 1. 
+ - [ ] International Mode, as set forth in Appendix B, Patent Policy Option 2.  
+ - [ ] Open Web Foundation Agreement 1.0 Mode, as set forth in Appendix B, Patent Policy Option 3. 
+ - [ ] W3C Mode, as set forth in Appendix B, Patent Policy Option 4. 
+ - [x] No Patent License.  No patent licenses are granted for the Draft Deliverables or Approved Deliverables developed by this Working Group.
 
 Source Code. Working Group Participants contributing source code to this Working Group agree that those source code contributions are subject to the Developer Certificate of Origin version 1.1, available at http://developercertificate.org/, the license indicated below, and any policies and governance rules included in the source code’s repository.  Source code may not be a required element of an Approved Deliverable specification.  [Check one box] 
 
-    - [ ] Apache 2.0, available at http://www.apache.org/licenses/LICENSE-2.0.html.   
-    - [ ] MIT License, available at https://opensource.org/licenses/MIT.  
-    - [ ] Mozilla Public License 2.0, available at https://www.mozilla.org/MPL/2.0/. 
-    - [ ] Other  ________________________________________.
+ - [ ] Apache 2.0, available at http://www.apache.org/licenses/LICENSE-2.0.html.   
+ - [ ] MIT License, available at https://opensource.org/licenses/MIT.  
+ - [ ] Mozilla Public License 2.0, available at https://www.mozilla.org/MPL/2.0/. 
+ - [ ] Other  ________________________________________.
 
 - [ ] **Dataset.**  Datasets are developed under the governance rules as set forth in Appendix A.  Working Group Participants contributing data to a dataset to this Working Group agree that those data contributions are subject to the license indicated below.  The dataset may not be a required element of an Approved Deliverable specification.  [Check one box] 
  
-    - [ ] CDLA-Permissive-1.0.
-    - [ ] CC0 1.0. 
-    - [ ] Open-Use-of-Data-Agreement.
-    - [ ] CDLA-Sharing-1.0.
-    - [ ] Computational-Use-of-Data-Agreement.
-    - [ ] Other  ________________________________________.
+ - [ ] CDLA-Permissive-1.0.
+ - [ ] CC0 1.0. 
+ - [ ] Open-Use-of-Data-Agreement.
+ - [ ] CDLA-Sharing-1.0.
+ - [ ] Computational-Use-of-Data-Agreement.
+ - [ ] Other  ________________________________________.
 
 **3. Non-Working Group Participant Feedback and Participation.** Upon the Approval of the Working Group Participants, the Working Group can request feedback from and/or allow Non-Working Group Participant participation in a Working Group, subject to each Non-Working Group Participant executing the Non-Member Agreement set forth in Appendix C.
  
