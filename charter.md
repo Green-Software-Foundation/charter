@@ -188,7 +188,7 @@ This Working Group Charter establishes the Scope and intellectual property terms
  Create a catalogue of best practices and patterns for Green Software Engineering across a wide range of technology domains.
   3. Copyright Licensing.  Each Working Group must specify the copyright mode under which it will operate prior to initiating any work on any Draft Deliverable or Approved Deliverable other than source code or datasets. The copyright mode for this Working Group is:  [Check one box] 
     - [ ] Copyright Grant to Project, as set forth in Appendix B, Copyright Policy Option 1.
-    - [ ] Creative Commons Attribution 4.0, as set forth in Appendix B, Copyright Policy Option 2. 
+    - [x] Creative Commons Attribution 4.0, as set forth in Appendix B, Copyright Policy Option 2. 
     - [ ] Open Web Foundation 1.0. (Only for those Working Groups selecting the Open Web Foundation mode for patent licensing). 
 
   4. Patent Licensing.  Each Working Group must specify the patent mode under which it will operate prior to initiating any work on any Draft Deliverable or Approved Deliverable other than source code or datasets. The patent mode for this Working Group is: [Check one box]
