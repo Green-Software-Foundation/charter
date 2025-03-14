@@ -3,6 +3,7 @@
 ##  Background
 
 The Joint Development Foundation and its subsidiaries are dedicated to helping standards, specification, source code, and related projects start quickly and operate efficiently.  Joint Development Foundation Projects are ideal for long term standards, specification source code projects, data projects, or as a place to do incubation projects before taking those projects to larger organizations. 
+
 By using established Joint Development Foundation legal agreements, groups can establish projects quickly and with minimal legal expense.  By operating under the Joint Development Foundation’s legal umbrella, Projects can enjoy the benefits of Joint Development Foundation’s existing legal agreements, choice of intellectual property policies, non-profit status, and corporate structure.  This enables Projects to more easily establish themselves, collect funds, issue press releases in the Project’s name, develop liaison relationships, and hold copyrights, all without negotiating custom agreements and new corporate organizations.
 
 The Joint Development Foundation operates under a freemium-type model, where projects can be established and operated without paying anything.  Projects can provide their own infrastructure (websites, email reflectors, conference organization, etc.), or can work with Joint Development Foundation approved vendors to provide these types of services if they wish. 
@@ -10,7 +11,7 @@ Getting Started
 
 **1.	Contact Us.**  Contact Joint Development Foundation Projects, LLC at **admin@JDFProjects.org** to discuss your Project.
 
-**2.	Create the Project.**  If it’s a good fit, Joint Development Foundation Projects, LLC will create the legal entity for your Project.  Technically, it will be series under Joint Development Foundation Projects, LLC.  Your Project will have its own independent governance, identity, membership, and scope of work.  
+**2.	Create the Project.**  If it’s a good fit, Joint Development Foundation Projects, LLC will create the legal entity for your Project.  Technically, it will be series under Joint Development Foundation Projects, LLC.  Your Project will have its own independent governance, identity, membership, and scope of work. 
 
 **3.	Sign the Membership Agreement.**  Joint Development Foundation Projects, LLC will then provide you with a Membership Agreement, Project Charter and Working Group Charter(s) for your Project to complete.
 
@@ -72,15 +73,14 @@ This “Project Charter” establishes the terms under which this Project will o
 **2.	Membership Levels.**
 
  2.1.	Steering Member.  Steering Members may participate in each Working Group and, unless waived per the Membership Agreement, the Steering Committee.
- 
+
  2.2.	General.  General Members may participate in each Working Group, but do not participate on the Steering Committee. 
- 
+
  2.3.	Contributor.  Contributors may participate in Working Group(s) designated by the Steering Committee, but do not participate on the Steering Committee and are not eligible to participate in decisions that require a Supermajority Vote.
 
 **3.	Organization.**
 
  3.1.	Steering Committee.  The Steering Committee is the body that is responsible for governing the Project, coordinating Working Groups, and managing assets.
- 
  3.2.	Chairperson.  The Project will have a Chairperson whose responsibilities are set forth in the Series Agreement and will include leading the Steering Committee, organizing meetings, organizing voting, identifying new Working Groups, managing finance, tracking Working Group progress, ensuring Working Group meet their goals, and any other activities Approved by the Steering Committee.  The Chairperson may delegate responsibilities to another party.  The Steering Committee may Approve a new Chairperson.
 
 **4.	Decision Making.**
@@ -157,68 +157,73 @@ This “Project Charter” establishes the terms under which this Project will o
 
   18.9.	“Steering Member” means a party, and that party’s Affiliates, that has executed the Membership Agreement for this Project either 1) as a Steering Member, or 2) who has joined the Steering Committee in response to the Steering Committee’s nomination, as applicable per the Steering Committee composition election in the Membership Agreement, unless that Steering Member has withdrawn or been terminated from the Project, or has changed membership level.
 
-  18.10.	“Supermajority Vote” means an affirmative vote of no less than 3/4 of Steering Members or Working Group Participants, as applicable, that have attended/participated in at least 50% of the last 4 meetings of the group conducting the vote, where each Steering Member or Working Group Participant will receive only 1 vote regardless of how many individuals from that party participate.  To ensure the group is capable of making decisions, the voting requirement for attendance/participation of at least 50% of the last 4 meetings shall be waived if there have not yet been 4 meetings.
+  18.10. “Supermajority Vote” means an affirmative vote of no less than 3/4 of Steering Members or Working Group Participants, as applicable, that have attended/participated in at least 50% of the last 4 meetings of the group conducting the vote, where each Steering Member or Working Group Participant will receive only 1 vote regardless of how many individuals from that party participate.  To ensure the group is capable of making decisions, the voting requirement for attendance/participation of at least 50% of the last 4 meetings shall be waived if there have not yet been 4 meetings.
 
-  18.11.	“Working Group” means a working group established under this Project via a Working Group Charter to develop materials within the Scope.  Each Working Group must have a Scope.
+  18.11. “Working Group” means a working group established under this Project via a Working Group Charter to develop materials within the Scope.  Each Working Group must have a Scope.
 
-  18.12.	“Working Group Participant” means a Steering Member, General Member, or Contributor who has Joined a Working Group. 
+  18.12. “Working Group Participant” means a Steering Member, General Member, or Contributor who has Joined a Working Group. 
+***
+***
 
-## Working Group Charter - Standards Working Group
+## Software Standards Working Group Charter
  
-This Working Group Charter establishes the Scope and intellectual property terms used to develop the materials identified in this Working Group Charter for the Project.  Only Project Steering Members, General Members, and Contributors, as applicable, that Joined the Working Group Charter will be bound by its terms and be permitted to participate in this Working Group. 
+This Working Group Charter establishes the Scope and intellectual property terms used to develop the materials identified in this Working Group Charter for the Project. Only Project Steering Members, General Members, and Contributors, as applicable, that Joined the Working Group Charter will be bound by its terms and be permitted to participate in this Working Group.
 
-**1.	Working Group Name.**  **Standards Working Group**
+1. **Working Group Name.** Software Standards Working Group
 
-**2.	Working Group Deliverables.**  This Working Group will create:  [Check Specification, Source Code, and/or Dataset]
+2. **Working Group Deliverables**. This Working Group will create: [Check Specification, Source Code, and/or Dataset]
 
-- [x] **Specifications**.  There are two options for specification development.  The “Community Specification” mode is designed specifically for a repository-based workflow that is familiar to developers while incorporating specification development due process and best practices.  The “Traditional mode uses a governance model that is based on traditional approaches to standards and specification development.  The Traditional mode includes a choice of copyright and patent licensing options so you may select the options best suited to your goals. 
-	
-**[Check Community Specification Mode or Traditional Mode]**
-	
-- [ ] **Community Specification Mode.**
+- [x] Specifications. There are two options for specification development. The “Community Specification” mode is designed specifically for a repository-based workflow that is familiar to developers while incorporating specification development due process and best practices. The “Traditional mode uses a governance model that is based on traditional approaches to standards and specification development. The Traditional mode includes a choice of copyright and patent licensing options so you may select the options best suited to your goals.
+[Check Community Specification Mode or Traditional Mode]
 
-  1.	Governance. The Working Group will operate in accordance with terms and policies of the Community Specification materials set forth at https://github.com/CommunitySpecification/1.0.
-  2. Working Group Scope.  As set forth in the Working Group repository’s Scope.md file. 
+**Community Specification Mode.**
 
-- [x] **Traditional Mode.**
-  1. Governance.  Traditional Mode uses the governance rules as set forth in Appendix A.
-  2. Working Group Scope.
-   - Develop a series of baseline specifications for Green Software Engineering related to terminology, measurement and reporting.
-   - Ensure that the specifications can be implemented in an interoperable fashion on the computing platforms in widespread use in both developed and developing regions.
- Create a catalogue of best practices and patterns for Green Software Engineering across a wide range of technology domains.
-  3. Copyright Licensing.  Each Working Group must specify the copyright mode under which it will operate prior to initiating any work on any Draft Deliverable or Approved Deliverable other than source code or datasets. The copyright mode for this Working Group is:  [Check one box] 
+1.	Governance. The Working Group will operate in accordance with terms and policies of the Community Specification materials set forth at https://github.com/CommunitySpecification/1.0.
+
+2.	**Working Group Scope**. As set forth in the Working Group repository’s Scope.md file.
+
+Traditional Mode.
+1. **Governance.** Traditional Mode uses the governance rules as set forth in Appendix A.
+
+2. **Working Group Scope.**
+
+- Develop standardized terminology, measurement methodologies, and reporting frameworks for Green Software Engineering, ensuring these standards can be implemented in an interoperable manner across diverse computing platforms in both developed and developing regions.
+
+3. **Copyright Licensing.** Each Working Group must specify the copyright mode under which it will operate prior to initiating any work on any Draft Deliverable or Approved Deliverable other than source code or datasets. The copyright mode for this Working Group is: [Check one box]
     - [ ] Copyright Grant to Project, as set forth in Appendix B, Copyright Policy Option 1.
-    - [x] Creative Commons Attribution 4.0, as set forth in Appendix B, Copyright Policy Option 2. 
-    - [ ] Open Web Foundation 1.0. (Only for those Working Groups selecting the Open Web Foundation mode for patent licensing). 
+    - [x] Creative Commons Attribution 4.0, as set forth in Appendix B, Copyright Policy Option 2.
+    - [ ] Open Web Foundation 1.0. (Only for those Working Groups selecting the Open Web Foundation mode for patent licensing).
 
-  4. Patent Licensing.  Each Working Group must specify the patent mode under which it will operate prior to initiating any work on any Draft Deliverable or Approved Deliverable other than source code or datasets. The patent mode for this Working Group is: [Check one box]
+4. **Patent Licensing.** Each Working Group must specify the patent mode under which it will operate prior to initiating any work on any Draft Deliverable or Approved Deliverable other than source code or datasets. The patent mode for this Working Group is: [Check one box]
     - [ ] RAND Royalty-Free Mode, as set forth in Appendix B, Patent Policy Option 1. 
-    - [ ] International Mode, as set forth in Appendix B, Patent Policy Option 2.  
-    - [ ] Open Web Foundation Agreement 1.0 Mode, as set forth in Appendix B, Patent Policy Option 3. 
-    - [x] W3C Mode, as set forth in Appendix B, Patent Policy Option 4. 
-    - [ ] No Patent License.  No patent licenses are granted for the Draft Deliverables or Approved Deliverables developed by this Working Group.   
+    - [ ] International Mode, as set forth in Appendix B, Patent Policy Option 2.
+    - [ ] Open Web Foundation Agreement 1.0 Mode, as set forth in Appendix B, Patent Policy Option 3.
+    - [x] W3C Mode, as set forth in Appendix B, Patent Policy Option 4.
+    - [ ] No Patent License. No patent licenses are granted for the Draft Deliverables or Approved Deliverables developed by this Working Group.
 
-- [x] **Source Code.**  Working Group Participants contributing source code to this Working Group agree that those source code contributions are subject to the Developer Certificate of Origin version 1.1, available at http://developercertificate.org/, the license indicated below, and any policies and governance rules included in the source code’s repository.  Source code may not be a required element of an Approved Deliverable specification.  **[Check one box] **
+- [x] **Source Code** Working Group Participants contributing source code to this Working Group agree that those source code contributions are subject to the Developer Certificate of Origin version 1.1, available at http://developercertificate.org/, the
+license indicated below, and any policies and governance rules included in the source code’s repository. Source code may not be a required element of an Approved Deliverable specification. **[Check one box]**
+    - [ ] Apache 2.0, available at http://www.apache.org/licenses/LICENSE-2.0.html.
+    - [x] MIT License, available at https://opensource.org/licenses/MIT.
+    - [ ] Mozilla Public License 2.0, available at https://www.mozilla.org/MPL/2.0/.
+    - [ ] Other 	.
 
-   - [ ] Apache 2.0, available at http://www.apache.org/licenses/LICENSE-2.0.html.   
-   - [x] License, available at https://opensource.org/licenses/MIT.  
-   - [ ] Mozilla Public License 2.0, available at https://www.mozilla.org/MPL/2.0/. 
-   - [ ] Other  ________________________________________.
+- [ ] **Dataset.** Datasets are developed under the governance rules as set forth in Appendix A. Working Group Participants contributing data to a dataset to this
+Working Group agree that those data contributions are subject to the license indicated below. The dataset may not be a required element of an Approved Deliverable specification. [Check one box]
+    - [ ] CDLA-Permissive-1.0.
+    - [ ] CC0 1.0.
+    - [ ] Open-Use-of-Data-Agreement.
+    - [ ] CDLA-Sharing-1.0.
+    - [ ] Computational-Use-of-Data-Agreement.
+    - [ ] Other.
 
-- [ ] **Dataset.**  Datasets are developed under the governance rules as set forth in Appendix A.  Working Group Participants contributing data to a dataset to this Working Group agree that those data contributions are subject to the license indicated below.  The dataset may not be a required element of an Approved Deliverable specification.  [Check one box] 
- 
-   - [ ] CDLA-Permissive-1.0.
-   - [ ] CC0 1.0.
-   - [ ] Open-Use-of-Data-Agreement.
-   - [ ] CDLA-Sharing-1.0.
-   - [ ] Computational-Use-of-Data-Agreement.
-   - [ ] Other  ________________________________________.
+3. **Non-Working Group Participant Feedback and Participation.** Upon the Approval of the Working Group Participants, the Working Group can request feedback from and/or allow Non-Working Group Participant participation in a Working Group, subject to each Non-Working Group Participant executing the Non-Member Agreement set forth in Appendix C.
 
-**3.	Non-Working Group Participant Feedback and Participation.** Upon the Approval of the Working Group Participants, the Working Group can request feedback from and/or allow Non-Working Group Participant participation in a Working Group, subject to each Non-Working Group Participant executing the Non-Member Agreement set forth in Appendix C.
- 
 By making a Contribution to this Working Group or adding its name to this Working Group’s member list, the member agrees to the terms of this Working Group Charter.
 
-## Working Group Charter Policy Working Group
+***
+***
+## Policy Working Group Charter
  
 This Working Group Charter establishes the Scope and intellectual property terms used to develop the materials identified in this Working Group Charter for the Project.  Only Project Steering Members, General Members, and Contributors, as applicable, that Joined the Working Group Charter will be bound by its terms and be permitted to participate in this Working Group. 
 
@@ -231,21 +236,25 @@ This Working Group Charter establishes the Scope and intellectual property terms
 [Check Community Specification Mode or Traditional Mode]
 
 - [ ] **Community Specification Mode.**
-  1.	Governance.  The Working Group will operate in accordance with terms and policies of the Community Specification materials set forth at https://github.com/CommunitySpecification/1.0.
-  2.	Working Group Scope.  As set forth in the Working Group repository’s Scope.md file.     
+1.	Governance.  The Working Group will operate in accordance with terms and policies of the Community Specification materials set forth at https://github.com/CommunitySpecification/1.0.
+2.	Working Group Scope.  As set forth in the Working Group repository’s Scope.md file.     
  
-- [ ] **Traditional Mode.**
-  1.	Governance.  Traditional Mode uses the governance rules as set forth in Appendix A.
-  2.	Working Group Scope. 
+- [x] **Traditional Mode.**
+
+1. **Governance.** Traditional Mode uses the governance rules as set forth in Appendix A.
+2. **Working Group Scope**
+     
   - Engaging with external bodies and campaigns, commenting on existing or proposed policy related to green software as well as creating our own policy proposals.
   - Managing projects related to the green certification of products and services.
 
-  3. **Copyright Licensing.**  Each Working Group must specify the copyright mode under which it will operate prior to initiating any work on any Draft Deliverable or Approved Deliverable other than source code or datasets. The copyright mode for this Working Group is:  [Check one box] 
+3. **Copyright Licensing.**  Each Working Group must specify the copyright mode under which it will operate prior to initiating any work on any Draft Deliverable or Approved Deliverable other than source code or datasets. The copyright mode for this Working Group is:  [Check one box]
+  
   - [ ] Copyright Grant to Project, as set forth in Appendix B, Copyright Policy Option 1. 
   - [x] Creative Commons Attribution 4.0, as set forth in Appendix B, Copyright Policy Option 2. 
   - [ ] Open Web Foundation 1.0. (Only for those Working Groups selecting the Open Web Foundation mode for patent licensing). 
 
-  4. **Patent Licensing.**  Each Working Group must specify the patent mode under which it will operate prior to initiating any work on any Draft Deliverable or Approved Deliverable other than source code or datasets. The patent mode for this Working Group is: [Check one box] 
+  4. **Patent Licensing.**  Each Working Group must specify the patent mode under which it will operate prior to initiating any work on any Draft Deliverable or Approved Deliverable other than source code or datasets. The patent mode for this Working Group is: [Check one box]
+     
   - [ ] RAND Royalty-Free Mode, as set forth in Appendix B, Patent Policy Option 1. 
   - [ ] International Mode, as set forth in Appendix B, Patent Policy Option 2.  
   - [ ] Open Web Foundation Agreement 1.0 Mode, as set forth in Appendix B, Patent Policy Option 3. 
@@ -253,6 +262,7 @@ This Working Group Charter establishes the Scope and intellectual property terms
   - [x] No Patent License.  No patent licenses are granted for the Draft Deliverables or Approved Deliverables developed by this Working Group.   
 
 - [ ] **Source Code.** Working Group Participants contributing source code to this Working Group agree that those source code contributions are subject to the Developer Certificate of Origin version 1.1, available at http://developercertificate.org/, the license indicated below, and any policies and governance rules included in the source code’s repository.  Source code may not be a required element of an Approved Deliverable specification.  **[Check one box]**
+      
   - [ ] Apache 2.0, available at http://www.apache.org/licenses/LICENSE-2.0.html.   
   - [ ] MIT License, available at https://opensource.org/licenses/MIT.  
   - [ ] Mozilla Public License 2.0, available at https://www.mozilla.org/MPL/2.0/. 
@@ -270,131 +280,75 @@ This Working Group Charter establishes the Scope and intellectual property terms
 **3.	Non-Working Group Participant Feedback and Participation.** Upon the Approval of the Working Group Participants, the Working Group can request feedback from and/or allow Non-Working Group Participant participation in a Working Group, subject to each Non-Working Group Participant executing the Non-Member Agreement set forth in Appendix C.
  
 By making a Contribution to this Working Group or adding its name to this Working Group’s member list, the member agrees to the terms of this Working Group Charter.
- 
-## Working Group Charter - Open Source Working Group
+
+***
+***
+
+## Hardware Standardards Working Group Charter
+
+This Working Group Charter establishes the Scope and intellectual property terms used to develop the materials identified in this Working Group Charter for the Project. Only Project Steering Members, General Members, and Contributors, as applicable, that Joined the Working Group Charter will be bound by its terms and be permitted to participate in this Working Group.
+
+1. **Working Group Name.** Hardware Standards Working Group
+
+2. **Working Group Deliverables.** This Working Group will create: [Check Specification, Source Code, and/or Dataset]
+    - [x] Specifications. There are two options for specification development. The “Community Specification” mode is designed specifically for a repository-based workflow that is familiar to developers while incorporating specification development due process and best practices. The “Traditional mode" uses a governance model that is based on traditional approaches to standards and specification development. The Traditional mode includes a choice of copyright and patent licensing options so you may select the options best suited to your goals.
+
+[Check Community Specification Mode or Traditional Mode]
+
+- [ ] **Community Specification Mode.**
+
+1. **Governance.** The Working Group will operate in accordance with terms and policies of the Community Specification materials set forth at https://github.com/CommunitySpecification/1.0.
+
+2. **Working Group Scope.** As set forth in the Working Group repository’s Scope.md file.
+    - [x] Traditional Mode.
+
+1. **Governance.** Traditional Mode uses the governance rules as set forth in Appendix
+
+2. **Working Group Scope.**
+
+ - Develop standardized terminology, design/build/re-use and recycle standards, measurement methodologies, and reporting frameworks for efficient and sustainable physical hardware and related supporting infrastructure, ensuring these standards can be implemented in an interoperable manner across diverse manufacturers and operators in both developed and developing regions.
+
+ - Oversee the maintenance of the Open19 1.0 and 2.0 specifications (as well as future versions), support its adoption and understanding, and continuously evaluate and propose improvements or revisions to enhance its effectiveness.
+
+3. **Copyright Licensing.** Each Working Group must specify the copyright mode under which it will operate prior to initiating any work on any Draft Deliverable or Approved Deliverable other than source code or datasets. The copyright mode for this Working Group is: [Check one box]
+   
+   - [x] Copyright Grant to Project, as set forth in Appendix B, Copyright Policy Option 1.
+   - [ ] Creative Commons Attribution 4.0, as set forth in Appendix B, Copyright Policy Option 2.
+   - [ ] Open Web Foundation 1.0. (Only for those Working Groups selecting the Open Web Foundation mode for patent licensing).
  
-This Working Group Charter establishes the Scope and intellectual property terms used to develop the materials identified in this Working Group Charter for the Project.  Only Project Steering Members, General Members, and Contributors, as applicable, that Joined the Working Group Charter will be bound by its terms and be permitted to participate in this Working Group. 
+5. **Patent Licensing.** Each Working Group must specify the patent mode under which it will operate prior to initiating any work on any Draft Deliverable or Approved Deliverable other than source code or datasets. The patent mode for this Working Group is: [Check one box]
+   
+   - [x] RAND Royalty-Free Mode, as set forth in Appendix B, Patent Policy Option 1.
+   - [ ] International Mode, as set forth in Appendix B, Patent Policy Option 2.
+   - [ ] Open Web Foundation Agreement 1.0 Mode, as set forth in Appendix B, Patent Policy Option 3.
+   - [ ] W3C Mode, as set forth in Appendix B, Patent Policy Option 4.
+   - [ ] No Patent License. No patent licenses are granted for the Draft Deliverables or Approved Deliverables developed by this Working Group.
 
-**1.	Working Group Name.**  **Open Source Working Group**
+- [x] **Source Code.** Working Group Participants contributing source code to this Working Group agree that those source code contributions are subject to the 
+    Developer Certificate of Origin version 1.1, available at http://developercertificate.org/, the license indicated below, and any policies and governance rules included in the source code’s repository. Source code may not be a required element of an Approved
 
-**2.	Working Group Deliverables.**  This Working Group will create:  [Check Specification, Source Code, and/or Dataset]
-- [x] Specifications.  There are two options for specification development.  The “Community Specification” mode is designed specifically for a repository-based workflow that is familiar to developers while incorporating specification development due process and best practices.  The “Traditional mode uses a governance model that is based on traditional approaches to standards and specification development.  The Traditional mode includes a choice of copyright and patent licensing options so you may select the options best suited to your goals. 
-	
-[Check Community Specification Mode or Traditional Mode]		
-- [ ] **Community Specification Mode**.
-  1.	Governance.  The Working Group will operate in accordance with terms and policies of the Community Specification materials set forth at https://github.com/CommunitySpecification/1.0.
-  2.	Working Group Scope.  As set forth in the Working Group repository’s Scope.md file. 
+**Deliverable specification.** [Check one box]
 
-- [x] **Traditional Mode.**
-  1. Governance. Traditional Mode uses the governance rules as set forth in Appendix A.
-  2. Working Group Scope.
-  - This working group will have a budget to ensure the ecosystem of tooling, data and research is actively supported and trusted by enterprise users.
-  - This working group is responsible for:
-    - Directing open-source, open-data and academic research in areas that advance the field of green software engineering.
-    - Sponsor key open-source and open-data projects to give confidence they will be supported and maintained for the long term.
+- [ ] Apache 2.0, available at http://www.apache.org/licenses/LICENSE-2.0.html.
+- [x] MIT License, available at https://opensource.org/licenses/MIT.
+- [ ] Mozilla Public License 2.0, available at https://www.mozilla.org/MPL/2.0/.
+- [ ] Other.
 
-  - Any working group participant can propose a request to fund, or otherwise support, an open-source, open data or research project. The working group meets to discuss the proposal, raise concerns or request changes, and move it forward until there is an agreement.
-  - The working group meets to discuss any external requests to fund, or otherwise support, an open-source, open data or research project. The working group meets to discuss the proposal, raise concerns or request changes, and move it forward until there is an agreement.
-
-  3. Copyright Licensing. Each Working Group must specify the copyright mode under which it will operate prior to initiating any work on any Draft Deliverable or Approved Deliverable other than source code or datasets. The copyright mode for this Working Group is:  [Check one box] 
-
-    - [ ] Copyright Grant to Project, as set forth in Appendix B, Copyright Policy Option 1. 
-    - [x] Creative Commons Attribution 4.0, as set forth in Appendix B, Copyright Policy Option 2. 
-    - [ ] Open Web Foundation 1.0. (Only for those Working Groups selecting the Open Web Foundation mode for patent licensing). 
-
-  4. Patent Licensing.  Each Working Group must specify the patent mode under which it will operate prior to initiating any work on any Draft Deliverable or Approved Deliverable other than source code or datasets. The patent mode for this Working Group is: [Check one box] 
-
-    - [ ] RAND Royalty-Free Mode, as set forth in Appendix B, Patent Policy Option 1. 
-    - [ ] International Mode, as set forth in Appendix B, Patent Policy Option 2.  
-    - [ ] Open Web Foundation Agreement 1.0 Mode, as set forth in Appendix B, Patent Policy Option 3. 
-    - [ ] W3C Mode, as set forth in Appendix B, Patent Policy Option 4. 
-    - [x] No Patent License.  No patent licenses are granted for the Draft Deliverables or Approved Deliverables developed by this Working Group.   
-
-- [X] **Source Code**.  Working Group Participants contributing source code to this Working Group agree that those source code contributions are subject to the Developer Certificate of Origin version 1.1, available at http://developercertificate.org/, the license indicated below, and any policies and governance rules included in the source code’s repository.  Source code may not be a required element of an Approved Deliverable specification.  [Check one box] 
-
-    - [ ] Apache 2.0, available at http://www.apache.org/licenses/LICENSE-2.0.html.   
-    - [x] MIT License, available at https://opensource.org/licenses/MIT.  
-    - [ ] Mozilla Public License 2.0, available at https://www.mozilla.org/MPL/2.0/. 
-    - [ ] Other  ________________________________________.
-
-- [x] **Dataset.**  Datasets are developed under the governance rules as set forth in Appendix A.  Working Group Participants contributing data to a dataset to this Working Group agree that those data contributions are subject to the license indicated below.  The dataset may not be a required element of an Approved Deliverable specification.  [Check one box] 
- 
-    - [x] CDLA-Permissive-1.0.
-    - [ ] CC0 1.0. 
+- [x] **Dataset.** Datasets are developed under the governance rules as set forth in Appendix A. Working Group Participants contributing data to a dataset to this Working Group agree that those data contributions are subject to the license indicated below. The dataset may not be a required element of an Approved Deliverable specification. [Check one box]
+      
+    - [ ] CDLA-Permissive-1.0.
+    - [x] CC0 1.0.
     - [ ] Open-Use-of-Data-Agreement.
-    - [ ] CDLA-Sharing-1.0.
+    - [ ] DLA-Sharing-1.0.
     - [ ] Computational-Use-of-Data-Agreement.
-    - [ ] Other  ________________________________________.
+    - [ ] Other.
 
-**3.	Non-Working Group Participant Feedback and Participation.** Upon the Approval of the Working Group Participants, the Working Group can request feedback from and/or allow Non-Working Group Participant participation in a Working Group, subject to each Non-Working Group Participant executing the Non-Member Agreement set forth in Appendix C.
- 
+3.	Non-Working Group Participant Feedback and Participation. Upon the Approval of the Working Group Participants, the Working Group can request feedback from and/or allow Non-Working Group Participant participation in a Working Group, subject to each Non-Working Group Participant executing the Non-Member Agreement set forth in Appendix C.
+
 By making a Contribution to this Working Group or adding its name to this Working Group’s member list, the member agrees to the terms of this Working Group Charter.
- 
-## Working Group Charter - Communtity Working Group
- 
-This Working Group Charter establishes the Scope and intellectual property terms used to develop the materials identified in this Working Group Charter for the Project.  Only Project Steering Members, General Members, and Contributors, as applicable, that Joined the Working Group Charter will be bound by its terms and be permitted to participate in this Working Group. 
 
-**1.	Working Group Name.  Communtity Working Group**
-
-**2.	Working Group Deliverables.** This Working Group will create:  [Check Specification, Source Code, and/or Dataset]
-
-- [x] Specifications. There are two options for specification development.  The “Community Specification” mode is designed specifically for a repository-based workflow that is familiar to developers while incorporating specification development due process and best practices.  The “Traditional mode uses a governance model that is based on traditional approaches to standards and specification development.  The Traditional mode includes a choice of copyright and patent licensing options so you may select the options best suited to your goals. 
-	
-[Check Community Specification Mode or Traditional Mode]	
-	
-- [ ] **Community Specification Mode**.
-
-  1. Governance.  The Working Group will operate in accordance with terms and policies of the Community Specification materials set forth at https://github.com/CommunitySpecification/1.0.
-  2. Working Group Scope.  As set forth in the Working Group repository’s Scope.md file. 
-
-- [x] **Traditional Mode.**
-  1. Governance.  Traditional Mode uses the governance rules as set forth in Appendix A.
-  2. Working Group Scope. 
-
-This working group will have a budget to build awareness and grow the audience for the output of the other working groups.
-
-This working group is responsible for:
-  - Broad adoption of green software engineering standards and best practices.
-
-This working group will:
-  - Create online content regarding green software engineering and the Foundation's activities, including articles, videos, and podcasts. 
-  - Create and manage an ambassador program, supporting a community of green software ambassadors as well as green software meetups around the word. 
-  - Organize events that advocate for green software engineering practices.
-
- 3. Copyright Licensing.  Each Working Group must specify the copyright mode under which it will operate prior to initiating any work on any Draft Deliverable or Approved Deliverable other than source code or datasets. The copyright mode for this Working Group is:  [Check one box] 
-
-- [ ] Copyright Grant to Project, as set forth in Appendix B, Copyright Policy Option 1. 
-- [x]	Creative Commons Attribution 4.0, as set forth in Appendix B, Copyright Policy Option 2. 
-- [ ]	Open Web Foundation 1.0. (Only for those Working Groups selecting the Open Web Foundation mode for patent licensing). 
-
-4. Patent Licensing. Each Working Group must specify the patent mode under which it will operate prior to initiating any work on any Draft Deliverable or Approved Deliverable other than source code or datasets. The patent mode for this Working Group is: [Check one box] 
-
- - [ ] RAND Royalty-Free Mode, as set forth in Appendix B, Patent Policy Option 1. 
- - [ ] International Mode, as set forth in Appendix B, Patent Policy Option 2.  
- - [ ] Open Web Foundation Agreement 1.0 Mode, as set forth in Appendix B, Patent Policy Option 3. 
- - [ ] W3C Mode, as set forth in Appendix B, Patent Policy Option 4. 
- - [x] No Patent License.  No patent licenses are granted for the Draft Deliverables or Approved Deliverables developed by this Working Group.
-
-Source Code. Working Group Participants contributing source code to this Working Group agree that those source code contributions are subject to the Developer Certificate of Origin version 1.1, available at http://developercertificate.org/, the license indicated below, and any policies and governance rules included in the source code’s repository.  Source code may not be a required element of an Approved Deliverable specification.  [Check one box] 
-
- - [ ] Apache 2.0, available at http://www.apache.org/licenses/LICENSE-2.0.html.   
- - [ ] MIT License, available at https://opensource.org/licenses/MIT.  
- - [ ] Mozilla Public License 2.0, available at https://www.mozilla.org/MPL/2.0/. 
- - [ ] Other  ________________________________________.
-
-- [ ] **Dataset.**  Datasets are developed under the governance rules as set forth in Appendix A.  Working Group Participants contributing data to a dataset to this Working Group agree that those data contributions are subject to the license indicated below.  The dataset may not be a required element of an Approved Deliverable specification.  [Check one box] 
- 
- - [ ] CDLA-Permissive-1.0.
- - [ ] CC0 1.0. 
- - [ ] Open-Use-of-Data-Agreement.
- - [ ] CDLA-Sharing-1.0.
- - [ ] Computational-Use-of-Data-Agreement.
- - [ ] Other  ________________________________________.
-
-**3. Non-Working Group Participant Feedback and Participation.** Upon the Approval of the Working Group Participants, the Working Group can request feedback from and/or allow Non-Working Group Participant participation in a Working Group, subject to each Non-Working Group Participant executing the Non-Member Agreement set forth in Appendix C.
- 
-By making a Contribution to this Working Group or adding its name to this Working Group’s member list, the member agrees to the terms of this Working Group Charter.
- 
+***
+***
 ## Appendix A
 **Traditional Mode Governance**
 
