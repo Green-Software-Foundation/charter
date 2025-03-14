@@ -11,8 +11,6 @@ The Working Group Charters establishes the governance, scope and intellectual pr
 
 - [Green Software Foundation Charter](./charter.md#project-charter)
 - [Standards Working Group Charter](./charter.md#standards-working-group-charter)
-- [Open Source Working Group Charter](./charter.md#open-source-working-group-charter)
-- [Community Working Group Charter](./charter.md#community-working-group-charter)
 - [Policy Working Group Charter](./charter.md#policy-working-group-charter)
 - [Appendix A](./charter.md#appendix-a)
 - [Appendix B](./charter.md#appendix-b)
